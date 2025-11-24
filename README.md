@@ -311,3 +311,5 @@ See [LICENSE](LICENSE) for details.
 - Powered by [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - Validated with [RAGAS](https://github.com/explodinggradients/ragas)
 - Vector search by [FAISS](https://github.com/facebookresearch/faiss)
+
+<img width="2238" height="1526" alt="CleanShot 2025-11-23 at 22 44 37@2x" src="https://github.com/user-attachments/assets/f49b0e2a-e703-4205-9049-c94942db5270" />
