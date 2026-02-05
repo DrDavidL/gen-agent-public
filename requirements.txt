@@ -62,7 +62,7 @@ pdf2image==1.17.0
 pillow==11.2.1
 pip==25.1.1
 propcache==0.3.1
-protobuf==6.30.2
+protobuf==6.33.5
 pyarrow==20.0.0
 pydantic==2.11.4
 pydantic-core==2.33.2
